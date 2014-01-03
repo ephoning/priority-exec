@@ -1,0 +1,11 @@
+bin/log4j.xml
+bin/org/eddie/exec/FutureTaskComparator.class
+bin/org/eddie/exec/PriorityFutureTask.class
+bin/org/eddie/exec/PriorityTask.class
+bin/org/eddie/exec/PriorityTaskExecutorService.class
+bin/org/eddie/exec/TaskException.class
+bin/org/eddie/exec/TaskPriority.class
+bin/org/eddie/exec/test/FooIn.class
+bin/org/eddie/exec/test/FooOut.class
+bin/org/eddie/exec/test/FooTask.class
+bin/org/eddie/exec/test/HPITest.class
